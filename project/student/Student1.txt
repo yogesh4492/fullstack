@@ -1,0 +1,28 @@
+student id= 1
+Roll no=101
+Name =yogesh
+Percentage= 89.23
+Grade= A
+
+-----------------------------------------------------
+student id= 2
+Roll no=102
+Name =jay
+Percentage= 45.25
+Grade= B
+
+-----------------------------------------------------
+student id= 1
+Roll no=101
+Name =yog
+Percentage= 56.23
+Grade= B
+
+-----------------------------------------------------
+student id= 2
+Roll no=102
+Name =yash
+Percentage= 89.25
+Grade= A
+
+-----------------------------------------------------
